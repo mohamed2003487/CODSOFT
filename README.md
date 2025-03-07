@@ -10,6 +10,6 @@ I am thrilled to be part of the **CodSoft Internship Program**, where I am worki
 
 ✅ **Internship Duration:** 5th March 2025 - 5th April 2025  
 ✅ **Batch:** March B14  
-✅ **Internship Type:** Tech (Machine Learning / Data Science / AI)  
+✅ **Internship Type:** Tech Data Science 
 
 
