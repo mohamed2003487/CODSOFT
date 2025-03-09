@@ -43,9 +43,4 @@ The initial model's performance metrics:
 - **Mean Squared Error (MSE):** 0.4083
 - **R² Score:** 0.7795
 
-## 🔥 Future Improvements
 
-- Feature engineering to extract more meaningful insights.
-- Experimenting with different regression models (e.g., Ridge, Lasso, Random Forest).
-- Hyperparameter tuning to optimize the model.
-- Handling outliers and improving data quality.
